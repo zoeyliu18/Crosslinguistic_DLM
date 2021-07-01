@@ -1,0 +1,488 @@
+I Access 2002 kan du ange ANSI SQL-frågeläge via användargränssnittet . <eos>
+Du funderar på att utvidga programmet till ett Access-projekt och vill skapa frågor som behöver så få förändringar som möjligt för att köras i en Microsoft SQL Server-databas . <eos>
+När du öppnar en sida läser Access anslutningsfilen som är länkad till sidan och ansluter sidan till rätt datakälla . <eos>
+Släppområden visas på olika sätt . <eos>
+Dessutom är XSL-formatmallar skrivna på ett sätt som påminner om XML-dokument , . <eos>
+På så sätt kan presentationsinformationen i ett XML-dokument transformeras från ett källformat . <eos>
+Du kan exportera ett databasobjekt som ett XML-dokument : <eos>
+Du kan exportera bara informationen från en tabell en fråga ett datablad ett formulär eller en rapport . <eos>
+När du exporterar data från Access väljer du att spara strukturen för ett formulär eller en rapport i ReportML-format . <eos>
+Om du är bekant med pivottabeller i Microsoft Excel och vill arbeta med data , kan du göra det på två sätt . <eos>
+Kopiera data till andra program <eos>
+3 När du filtrerar ett fält ändras färgen på det filtrerade fältets nedrullningsbara pil Fältpil från svart , och knappen Autofilter i verktygsfältet markeras . <eos>
+När du utformar en webbsida med Microsoft Office Web Components kan alla användare med en Microsoft Office XP-licens samverka med komponenterna i webbläsaren . <eos>
+Användare som inte har någon Office XP-licens kan visa komponenterna och informationen i dem samt skriva ut komponenterna som de visas , men de kan inte samverka med komponenterna eller arbeta med dem . <eos>
+Användaren kan bara samverka med komponenten . <eos>
+Hur du undviker problem som orsakas av att blanda frågor under olika ANSI SQL-frågelägen <eos>
+Först söker Access efter en RefLibPaths-nyckel : <eos>
+Du kan också spara tabeller , vyer , lagrade procedurer , funktioner och formulär i ett Microsoft Access-projekt . <eos>
+Kod i formulär och rapporter som inte kan köras från en dataåtkomstsida importeras till sidan . <eos>
+På sommaren såg han på baseball ; på vintern gick han på operan . <eos>
+Det var rörelsen som var det viktiga , detta att sätta den ena foten framför den andra och liksom låta sig hänga på släp . <eos>
+Han har väntat på er . <eos>
+Peter Stillman kom in i rummet och satte sig i en röd sammetsstol . <eos>
+Detta att förflytta sig från ett ställe såg ut att kräva all hans uppmärksamhet , som om han skulle drabbas av orörlighet om han inte helhjärtat gick in för det han gjorde . <eos>
+Han satt där stum på sin plats och såg i sin tur . <eos>
+Medan bilen slamrande körde genom parken såg Quinn ut genom rutan och funderade över om det var de här träden som Peter Stillman brukade betrakta under sina promenader ut i luften och ljuset . <eos>
+Han ryckte på axlarna och sa sig att han måste lära sig att titta på klockan lite oftare . <eos>
+Han gick tillbaka längs 107:e gatan , tog av åt vänster och började gå norrut för att försöka hitta något lämpligt ställe att äta på . <eos>
+Vad Stillman hade för sig var en gåta för Quinn . <eos>
+Och faktum var att han då och då böjde sig ner och plockade upp något föremål från marken , varefter han noggrant granskade det och vred och vände på det . <eos>
+Två gånger när hans lumpsamlarverksamhet gett ovanligt stor skörd gick han tillbaka till hotellet för att några minuter senare åter dyka upp med tömd väska . <eos>
+Så fort det blev mörkt brukade Stillman äta middag på Apollo Coffee Shop i hörnet av 97:e gatan och Broadway och sedan gå tillbaka till hotellet . <eos>
+Och om en sådan tolkning förutsatte att Stillman visste om att han var skuggad så var Quinn beredd att acceptera detta som en trosartikel . <eos>
+Quinn gick i tankarna . <eos>
+Han letade i katalogens gula sidor . <eos>
+Det fanns en Paul Auster i Manhattan . Han bodde på Riverside Drive , <eos>
+Han kom tillbaka med två flaskor som han ställde på en trälåda som tjänade som soffbord och slog sig sedan själv ner i soffan . <eos>
+Jojon rann nerför snöret samtidigt som den sköt gnistor . <eos>
+Och Daniel , sa han till Quinn . Daniel , det här är Daniel . <eos>
+Och så går det runt runt , ropade pojken och slog plötsligt ut med armarna och började springa runt i rummet . <eos>
+Mets svarade på detta i en inneperiod med en dubbelrunda av Wilson och en singel av Youngblood med en dubbelrunda av Wilson och en singel av Youngblood . <eos>
+I drömmen , som han sedan glömde , vandrade han nerför Broadway . <eos>
+Och fastän han inte får sitta bredvid kvinnor som inte tillhör hans släkt eller se på dem eller meddela sig med dem ( alltsammans saker som utan tvivel besparar honom en-mängd bekymmer ) verkar han vara en godhjärtad ung man , och han ser ut att trivas gott . <eos>
+Alla chassiderna roar sig med liv och lust , kilar fram genom gångarna , hälsar på varann och småpratar och står med glad otålighet , livliga som gäss . <eos>
+Men jag kan inte utsätta honom för alltför många chocker , så jag säger : " Hon har inte fått en judisk uppfostran . " <eos>
+Jag kom från Israel för att gifta mig i New Jersey . <eos>
+När chassiden återvänder till sin plats berättar jag för honom att min hustru , en lärd kvinna , skall föreläsa på Hebreiska universitetet i Jerusalem . <eos>
+När chassiden återvänder till sin plats efter bönen berättar jag för honom att min hustru , en lärd kvinna , skall föreläsa på Hebreiska universitetet . <eos>
+Rhodesierna och sydafrikanerna skålade för israelerna , sa Le Monde . <eos>
+En av dessa rapporter , som Eichelberger själv hade skrivit , översattes till arabiska , " kommenterades av medlemmar av Nassers stab och översattes tillbaka till engelska " . <eos>
+Detta dokument , betitlat " Maktproblem för en revolutionär regering " , passerade enligt mr Copeland " fram och tillbaka tills en slutlig version hade åstadkommits . <eos>
+Mr Kedourie betvivlar att han behövde " ta den amerikanska statsvetenskapens resurser i bruk . <eos>
+När jag läste " Stormen och vreden " i går kväll stötte jag på några ord bland Quentin Compsons tankar som hörde samman med EE Cummings och trettiotalet . <eos>
+Detta skulle jag ha läst utan att rygga tillbaka i Chicago , men i Jerusalem la jag ifrån mig boken . <eos>
+När Shahar och jag promenerade i Gai-Hinnom hade jag sagt att det stötte mig att David Ben-Gurion på sina besök i USA brukade uppmana de amerikanska judarna att ge upp sina illusioner om gojernas demokrati och emigrera till Israel . <eos>
+Skaror av amerikanska flickor kommer nerför sluttningen i sina blåkläder , med jumprar knutna i ärmarna . <eos>
+Han har återvänt från en resa , han sitter i solen som lyser från Moabs berg , han dricker med en kär vän . <eos>
+På lotsens inrådan flyttade de sig längre in i hamnen . <eos>
+En del av amerikanska Sjätte flottan låg för ankar . <eos>
+En av pojkarna var från Oklahoma , . <eos>
+När John kommit till sjöss igen fick han göra dubbla vakter i maskinrummet . <eos>
+Besättningen sa att han höll på att supa sig från vettet . <eos>
+Detta sa han om den judiska talförmågan . <eos>
+Jag lyssnar mycket uppmärksamt , uppmärksammare än jag någonsin lyssnat i hela mitt liv men jag känner ofta att jag har hamnat i ett hav utan stränder . <eos>
+Vad allt detta tal sist och slutligen handlar om är överlevandet chansen att överleva för det anständiga samhälle som har skapats i Israel . <eos>
+Yawlen Nellie red för ankaret och låg orörlig . <eos>
+Themsenmynningen sträckte sig framför oss . <eos>
+Advokaten – den bäste av gamla kamrater – lutade sig , i kraft av sina många år och många förtjänster , och låg på den enda filten . <eos>
+Och till slut sjönk solen i sin omärkligt lutande bana och skiftade från vitglöd till matt rött , utan strålar och utan värme , som om hon hållit på att slockna , dödsmärkt vid beröringen med det mörker som ruvade över ett människomyller . <eos>
+Den breda gamla floden rann stilla fram i kvällningen , och bredde ut sig med den lugna värdigheten hos en vattenväg som leder till världens ände . <eos>
+Det hade burit alla de fartyg vilkas namn glimmar till som ädelstenar , alltifrån Golden Hind som kom åter med sitt bukiga skrov fyllt av skatter för att inspekteras av en hög drottning och sålunda göra sitt utträde ur den väldiga sagan , intill Erebus och Terror som seglade ut på ett annat erövringståg – och som aldrig kom åter . <eos>
+Guldsökare och lyckojägare , alla hade de färdats ut på detta vatten , en världsmakts sändebud , bärare av en gnista från den heliga elden . <eos>
+Vad storhet hade inte flutit med ebben ! <eos>
+Tänk er hur det ska ha känts för befälhavaren på en ståtlig – vad hette det nu – trirem i Medelhavet som plötsligt fick order att bege sig norrut , i expressfart transporterades tvärs över de båda Gallierna , gavs befäl över en farkost av det slag som legionärerna – som måtte ha varit ett förbluffande händigt släkte – brukade snickra ihop , tydligen i hundratal , om vi får tro vad vi läser . <eos>
+Ett och annat militärläger , borttappat i ödemarken ; för övrigt köld , dimma , stormar , farsoter , landsförvisning , död – lurande död i luften , i vattnet , i snåren . <eos>
+Ni förstår , började han igen och lyfte ena armen från armbågen så att han med sina korslagda ben satt som en buddha , predikande i europeiska kläder och utan lotusblomma – ni förstår – ingen av oss skulle känna riktigt så . <eos>
+Men för att kunna förstå dess verkan på mig måste ni i alla fall veta hur jag kom dit ut , vad jag såg , hur jag färdades uppför floden . <eos>
+Men där fanns inom den en särskild flod , en väldig flod som på kartan liknade en utrullad orm med huvudet i havet , kroppen vilande i slingor och stjärten dold i kontinentens innandömen . <eos>
+Och när jag stod och tittade på kartan över den tjusade den mig som en orm tjusar en fågel , en dum liten fågel . <eos>
+Den är alldeles för vacker och om de finge bygga upp den skulle den ligga i ruiner . <eos>
+Vi överlämnade hennes post ( jag fick höra att männen på det ensamma fartyget dog undan av feber ) och gick vidare . <eos>
+Vi angjorde fler platser med farsartade namn , där död och köpenskap trådde sin lustiga dans i en stillastående och jordluktande atmosfär som i ett hett gravvalv ; vidare utmed hela denna konturlösa kust med sitt bräm av farlig bränning som om naturen själv hade velat avvisa intränglingar ; in och ut ur floder , som såg ut som om dödsrikets flöden hade gått i dagen , med stränder som ruttnade till dy och slemtjockt vatten som trängde in bland de slingrande mangroveträden vilka tycktes vrida sig mot oss . <eos>
+Jag kunde räkna vartenda revben , deras leder var som repknutar ; var och en hade en järnkrage om halsen och alla var länkade tillsammans med en kedja vars bukter svängde mellan dem . <eos>
+I stället för att fortsätta uppåt tog jag av åt vänster . <eos>
+Svarta skepnader låg , hukade , satt bland träden lutade mot stammarna , fastklamrade vid marken , otydligt skymtande i skumrasket . <eos>
+Den hade ångat iväg i plötsligt påkommen brådska två dagar tidigare , och inom tre timmar hade de kört henne läck på ett stenigt grund och hon sjönk nära södra stranden . <eos>
+han hade tjänstgjort tre treårsperioder därute . Därför att en okuvlig hälsa blir ett slags makt i sig själv <eos>
+När han for hem på semester rumlade han om i stor skala , skrytsamt , . <eos>
+Han stängde till om orden , som om de hade varit en dörr som hade öppnats inåt ett mörker han rådde över . <eos>
+De strövade hit och dit med sina löjliga långa stavar i handen . <eos>
+Och utanför stod den tysta vildmarken kring denna avröjda fläck och väntade tåligt på att detta spöklika intrång skulle ta slut . <eos>
+Jag rökte just en pipa i lugn och ro och såg dem skutta omkring i eldskenet med uppsträckta armar , när tjockisen med mustascherna kom rusande ned till floden med en bleckhink i handen , försäkrade att alla ' skötte sig storartat , storartat ' , vippade åt sig ungefär en liter vatten och rusade tillbaka igen . <eos>
+Jag rökte just en pipa i lugn och ro bredvid min avtacklade ångare och såg dem skutta omkring i eldskenet , när tjockisen med mustascherna kom rusande ned till floden med en bleckhink i handen , försäkrade att alla ' skötte sig storartat , storartat ' , vippade åt sig ungefär en liter vatten och rusade tillbaka igen . <eos>
+Jag rökte just en pipa i lugn och ro bredvid min avtacklade ångare och såg dem skutta omkring i eldskenet med uppsträckta armar , när tjockisen med mustascherna kom rusande ned till floden , försäkrade att alla ' skötte sig storartat , storartat ' , vippade åt sig ungefär en liter vatten och rusade tillbaka igen . <eos>
+Han höll sig på sin kant och de betalade igen med att säga att han spionerade på dem för direktörens räkning . <eos>
+Han höll sig på sin kant mot de andra agenterna och de betalade igen med att säga att han spionerade på dem . <eos>
+Inom Europeiska unionen är följerätten föremål för lagstiftande bestämmelser i elva stater , men tillämpas i praktiken bara . <eos>
+Grekland , Italien , Frankrike , Spanien , Österrike att något måste ske och de befinner sig i denna stund . <eos>
+Det tycks nämligen vara fallet med de fakta som herr Lomas för på tal . <eos>
+Dessa uttalanden rapporteras i stor omfattning . <eos>
+Inte ens statstjänstemän på de nationella och lokala nivåerna i Storbritannien tillåts lägga sig i valrörelsen . <eos>
+De resterande nio procenten kan elimineras under de kommande åtta åren . <eos>
+Jag undrar om de deltar i debatten här . <eos>
+För två månader sedan blev jag tvungen att läggas in för ett kirurgiskt ingrepp . <eos>
+Förvisso ligger mycket av det som våra medborgare uppfattar som buller inte . <eos>
+Fru ordförande ! Jag skulle också vilja framföra ett hjärtligt tack till Bonino för hennes kamp för kvinnorna . <eos>
+Sammanträdet avbröts kl. 11.25 i avvaktan , och återupptogs kl. 11.30 . <eos>
+Er företrädare sade nyss – det är knappt tjugo minuter sedan vi avslutade debatten – att betänkandet kommer att gå till omröstning . <eos>
+låt oss slå fast att man även i fortsättningen skall kunna samla in kläder till behövande människor . <eos>
+Detta kan vi klart och tydligt se i styckena . <eos>
+Herr ordförande ! Det har gjorts betydande framsteg på den inre marknaden . <eos>
+Ordet går till Hatzidakis . Med denna fråga avslutar vi frågestunden till van den Broek . <eos>
+Tyvärr visar det , med all respekt , en enorm okunnighet om vad som verkligen sker med vinet . <eos>
+Jag uppmanar därför det tyska ordförandeskapet att vidta alla nödvändiga initiativ vid toppmötet mellan EU och USA . <eos>
+Jag syftar här på projektet . <eos>
+Ett stort antal människoliv går varje år till spillo . <eos>
+Vi vet med säkerhet att de människor som sjövägen försöker ta sig från den marockanska kusten ofta går ett grymt öde till mötes . <eos>
+Jag har hört från källor att det finns ett stort företag inblandat i Norge för närvarande . <eos>
+Jag talar å de brittiska labourledamöternas vägnar . <eos>
+För ögonblicket har Tyskland ett stort överskott i sin handelsbalans gentemot övriga unionen , . <eos>
+Det var mitt på eftermiddagen ; <eos>
+För bara några dagar sedan hade han befunnit sig i det huset , . <eos>
+Innan skymningen drog en ridå för skogen en bit därifrån brukade han ibland ströva ut , in i solljuset , vilket samlades som gyllene vatten , och skjuta en rapphöna . <eos>
+Hon såg först ut över dalen och så lugnt och stilla på honom , . <eos>
+den märkliga skygghet som rått mellan dem gjorde att hon inte kunde säga : Vill du fara ? <eos>
+Så frågan om vad de egentligen talade om bestod i grund och botten . <eos>
+Över Kano lyste en väldig måne , och i starkare ljus än en europeisk vintereftermiddag kämpade sig passagerarna fram över plattan klockan tre på morgonen . <eos>
+En svart man i khakishorts ( det brukade vara en vit man i vita strumpor ) sprutade ett kvalmigt insektsmedel över passagerarnas huvuden . <eos>
+Dörrarna slogs upp ; röster utifrån trängde in med luftströmmarna ; han rörde sig mot utgången tillsammans med de andra , in i en omtumlande upplevelse av ett igenkännande med alla sinnen , gick lugnt över plattan , den vederkvickande , tidiga värmen mot händerna , den kyliga , metalliska smaken nere i strupen efter den gångna kvällens oväder , <eos>
+Han kände ingen , men den korta promenaden hade för honom en prägel av procession , av mottagningsceremoni , och när han trädde in i byggnaden var alltsammans plötsligt lika välbekant och vardagligt som de ansikten andra människor hälsade var för dem . <eos>
+Han kände ingen , men den korta promenaden hade för honom en prägel av procession , av mottagningsceremoni , och när han trädde in i byggnaden över de trappsteg där , som alltid , döda insekter som fallit ner från lamporna inte hade sopats bort , var alltsammans plötsligt lika välbekant och vardagligt som de ansikten andra människor hälsade var för dem . <eos>
+Vi ska ta och titta in dit en kväll och äta en biff , dom har försökt sätta sprutt på stället . <eos>
+Då och då medan de väntade på middagen bars konversationen upp av intensivt sällskapliga ljud -- fräsanden , skrapningar , högljutt samtal -- som trängde in till dem när tjänaren kom och gick medan han dukade bordet . <eos>
+det tjänar ingenting till att springa till domaren om någon måste transporteras i ambulans till exempel ... <eos>
+Han åt en sked av den överblivna granadillpuddingen , och aningen till en rysning for för ett ögonblick . <eos>
+Om Shinza till exempel skulle ställa till trassel vid nästa val , om han till exempel skulle få för sig att han är förbannat missnöjd , vilket han utan tvivel är , och sätta i gång en verklig opposition ! <eos>
+Bray gick in i köket för att fylla konjaksglaset med vatten . <eos>
+Ett blänkande svart band av myror sträckte sig uppför en skåpdörr . <eos>
+och så var det morgon , och Festus' biträde stod i dörren . <eos>
+En helikopter snarkade fram över festligheterna , dränkte utväxlandet av hälsningar när Bray föreställdes för någon , utplånade samtal på pubar och till och med anföranden . <eos>
+Han talade till den ålderstigna engelska prinsessan som satt bredvid honom , och Bray såg hur han pekade ut skaran av galakvinnor som stod uppställda med ansikten och bröst målade i glädjevitt bland grupperna av musikanter och dansare från olika delar av landet . <eos>
+Han talade till den ålderstigna engelska prinsessan som satt bredvid honom med knäna sedligt tryckta mot varandra , och Bray såg hur han pekade ut skaran av galakvinnor som stod uppställda med ansikten och bröst målade i glädjevitt bland grupperna av musikanter och dansare från olika delar av landet . <eos>
+Han talade till den ålderstigna engelska prinsessan som satt bredvid honom med knäna sedligt tryckta mot varandra i den kungliga ställning som är säreget karakteristisk för genomlidandet av ceremonier , och Bray såg hur han pekade ut skaran av galakvinnor som stod uppställda med ansikten och bröst målade i glädjevitt . <eos>
+Men när den stora ceremonin var över och mellan alla de andra officiella tillställningarna -- en statsbal , mottagningar , cocktailbjudningar , banketter och luncher -- började ett slags feststämning att gripa omkring sig . <eos>
+Dando tog honom med sig ; men Neil var god vän med Mweta , och Vivien var brorsdotter till -- av alla människor -- sir William Clough , den siste guvernören , som hade börjat sin bana som kolonialtjänsteman tillsammans med Bray i Tanganyika . <eos>
+De hälsades av jubel ; också de hade beslutat att för en gångs skull klä upp sig , och de båda kvinnogrupperna förenade sig med varandra under förtjusta tillrop . Alla började tala om hurdan balen hade varit , champagne serverades , en kongolesisk orkester klämde igång , och den lätt verklighetsfrämmande , eggande stämningen från statsbalen och det trivsamma gemyt som präglade partyt flöt samman . <eos>
+De hälsades av jubel från alla dem som redan hade infunnit sig men som inte hade varit med på balen ; också de hade beslutat att för en gångs skull klä upp sig , och de båda kvinnogrupperna förenade sig med varandra . Alla började tala om hurdan balen hade varit , champagne serverades , en kongolesisk orkester klämde igång , och den lätt verklighetsfrämmande , eggande stämningen från statsbalen och det trivsamma gemyt som präglade partyt flöt samman . <eos>
+Den tjugosexåriga Vivien Bayley -- drottninglik med sitt sköna , behärskade , disciplinerade ansikte -- kom då och då över till Bray . <eos>
+Någon ropade på Vivien , och de drogs ut ur virveln av dansande . <eos>
+Ras Asahe ... jag hälsade på hemma hos er en gång . <eos>
+Jag skulle gärna vilja tala med någon ... er chef kanhända ? <eos>
+De drog sig åt sidan , och Wentz riktade sig till en kvinna som hade slagit sig ner i en av trädgårdsstolarna : Margot -- får jag föreställa överste Bray . <eos>
+Det blonda håret var uppborstat från en hög rund panna och bakom öronen , . <eos>
+Margot har varit tvungen att stå i köket själv . <eos>
+Ja , med ena handen . Medan du rörde i grytorna för fullt . <eos>
+Hon gjorde en liten gest och skrattade , men hennes man inföll ivrigt med händerna : <eos>
+Wentz satte ifrån sig sitt glas för att dra hela uppmärksamheten till det uttalande som han nu skulle göra . <eos>
+Han går i sista klassen , sade Wentz oskuldsfullt . <eos>
+bankade på guvernörens dörr medan dom andra var bara en hop snoriga barnungar ... <eos>
+I ljuset avtecknade sig Margot Wentz' huvud som galjonsfiguren på ett fartyg : <eos>
+Med ett frånvarande leende mot Bray tvärs över rummet tog hon för ett ögonblick hand . <eos>
+Timothy Odara stod med slutna ögon och lutade sig mot väggen , vaken och intresserad . <eos>
+... ursäkta , i fyrtioåtta år stod ni under brittiskt herravälde , arbetade i deras gruvor , drog vägar åt dom , byggde städer , bodde i skjul och passade opp på dom , städade efter dom , blev behandlade som skit ... men nu när allt det där är överståndet , tror ni verkligen att det över huvud taget fanns något sätt för er att träda in i den moderna världen ? <eos>
+Tror ni att det fanns någon annan som kunde ha gett er alfabetet och elektricitet och tagit kål på malariamyggan ? <eos>
+Skulle ni inte vara tvungna att punga ut med priset ? <eos>
+Det enda jag vill ha sagt är detta : gå inte omkring med det förgångnas lidanden . <eos>
+Men om ni måste göra det genom att låta alla dessa fyrtio år , eller hur många det nu var , sitta till bords ... ach , det är inte sunt , jag mår illa när jag tänker på det . <eos>
+Mrs Odara hade slutit sig till gruppen och körde en kraftig hand med silverskimrande naglar . <eos>
+Bray såg hur Margot Wentz plötsligt lyfte på huvudet , som om någon hade berättat en gammal kvickhet som hon inte orkade skratta åt . <eos>
+För all del ... jag fyllde både sjutton och arton år i interneringslägret i Fort Howard svarade Odara , så mycket vet jag . <eos>
+Evelyn Odara talade till sin man som ingen kvinna från trakten skulle understå sig ; men han nonchalerade det -- som om han gav svar på tal <eos>
+Han sade ilsket till Wentz , riktade sig till hustrun : Vad fick du i gengäld som var värt det hela ? <eos>
+Och vem av oss är det som kan ha gått med Rebecca ? <eos>
+Hon var antropolog , vilket Bray tog som en förklaring på hennes stora förtjusning i att anordna utflykter , då hon brukade bära sin lilla baby i ett bylte på ryggen . <eos>
+Dom har såna där glödlampor som man ser på filmer , sade hon , och dom tänds och släcks och bildar orden LEVE OAVHÄNGIGHETEN ! <eos>
+De gick in på Sputnikbaren . Musiken träffade dem som en stöt för huvudet , varpå någon sade att han hade för sig att de hade kommit överens om att träffas vid järnvägsövergången . <eos>
+Allesammans for tillbaka in i stan -- <eos>
+När han svarade på Neils tilltal använde han frikostigt titeln bwana , vilket en vit man rimligen borde vänta sig om han skulle nedlåta sig till något sådant som att stanna för en svart liftare , och när han hade slagit sig ner i bilen bredvid Bray och sydafrikanen , satt han där bland dessa svarta och vita stadsbor lik en igelkott som rullat ihop sig vid beröring . <eos>
+När han svarade på Neils tilltal använde han frikostigt titeln bwana , vilket en vit man rimligen borde vänta sig om han skulle nedlåta sig till något sådant som att stanna för en svart liftare utefter vägen , och när han hade slagit sig ner i bilen , satt han där bland dessa svarta och vita stadsbor lik en igelkott som rullat ihop sig vid beröring . <eos>
+i det klara månljuset körde de förbi mangoträdens skuggor , vilka låg under träden ; <eos>
+en åsna gick och betade bland sönderslaget porslin ; <eos>
+Det var inte första gången ett gräl hade utbrutit vid frukosten . <eos>
+Effekten av denna enkla mening på resten av familjen var otrolig : Dudley flämtade till och ramlade av stolen ; mrs Dursley gav till ett litet skrik och slog händerna för munnen , mr Dursley reste sig häftigt med dunkande tinningådror . <eos>
+Harry stirrade från sin morbrors högröda ansikte . <eos>
+Harry Potter var en trollkarl – en trollkarl som just kommit tillbaka från sitt första år . <eos>
+Morbror Vernon hade till och med satt ett hänglås på buren med Harrys uggla , Hedwig , för att hindra henne från att flyga med meddelanden till någon . <eos>
+Harrys föräldrar hade dött i angreppet , men Harry hade undkommit med sitt blixtärr , och på något vis -- ingen förstod varför -- hade Voldemorts kraft brutits och tillintetgjorts i det ögonblick då han misslyckades med att döda Harry . <eos>
+Och sedan , exakt ett år tidigare , hade de skrivit till Harry , och hela historien hade kommit fram . <eos>
+Harry hade börjat i trollkarlsskolan , där han och hans ärr blev berömda . Men nu var skolåret till ända , och han var tillbaka hos familjen Dursley , för att åter bli behandlad som en hund som rullat sig i någonting illaluktande . <eos>
+Han hade inte pratat om någonting annat . <eos>
+Petunia , när middagen är över tar du med dig mrs Mason och serverar kaffet , och jag leder in samtalet på borrar . <eos>
+Ingen av dem hade skrivit till honom , trots att Ron hade sagt att han skulle be Harry komma och bo hos honom . <eos>
+Massor av gånger hade Harry varit på vippen att låsa upp Hedwigs bur med hjälp av magi och skicka i väg henne till Ron och Hermione , men det var inte värt risken . <eos>
+Harry hade inte berättat det för Dursleys . Han visste att det enbart var deras skräck för att han skulle förvandla dem allihop till dyngbaggar som hindrade dem från att låsa in honom i skrubben under trappan . <eos>
+Sedan satte hon honom i arbete , . <eos>
+Solen sken starkt ovanför huvudet och brände i nacken . <eos>
+Harry gick på tå , smög in , stängde dörren och vände sig mot sängen för att sjunka ner på den . <eos>
+Harry förstod ögonblickligen att det var samma varelse som hade betraktat honom från trädgårdshäcken . <eos>
+Harry lade märke till att den var klädd i något som såg ut som ett gammalt örngott . <eos>
+" T-tack " , sade Harry . Han smög tyst utmed väggen och sjönk ner på skrivbordsstolen . <eos>
+Folk glodde på honom . <eos>
+Och där var någon som stirrade på honom , någon med fräknigt ansikte , rött hår och lång näsa . <eos>
+Fred och George klättrade försiktigt in i Harrys rum . <eos>
+Harry rusade omkring i rummet och samlade ihop sina saker och förpassade dem vidare ut genom fönstret . <eos>
+Till sist var de uppe på avsatsen , flämtande och flåsande , och bar kofferten genom Harrys rum . <eos>
+Han vevade ner fönstret och tittade tillbaka på de krympande takåsarna medan nattvinden slet i hans hår . <eos>
+Bröderna Weasley vrålade av skratt och Harry lutade sig tillbaka i sätet . <eos>
+Bröderna Weasley vrålade av skratt och Harry lutade sig tillbaka i sätet med ett flin som gick från öra . <eos>
+George räckte över hårnålen till Ron och ett ögonblick senare svävade Hedwig glatt ut genom fönstret och flög längs sidan av dem . <eos>
+" Njaa " , sade Fred , " vi kan väl säga så här : husalfer har sin egen starka trolldomskraft , men de brukar inte kunna använda den utan lov . <eos>
+En mugglarkvinna köpte den , tog med den hem och försökte servera te i den . <eos>
+En svag rosafärgad glöd skymtade längs horisonten . <eos>
+" Vi är nere ! " sade Fred då de slog i marken . <eos>
+De hade landat alldeles intill ett fallfärdigt garage på en liten gård och Harry tittade för första gången ut . <eos>
+Mrs Weasley kom marscherande över gården , och trots att hon var en kortväxt , knubbig kvinna med vänligt utseende var hon för ögonblicket märkligt lik en sabeltandad tiger . <eos>
+Mrs Weasley stannade tvärt framför dem med händerna i sidorna och stirrade från det ena skuldmedvetna ansiktet . <eos>
+Böcker låg staplade i tre travar , böcker med titlar som Trolla fram din egen ost , Förtrollad bakning och Festmåltider på en minut -- rena trolleriet ! <eos>
+Mrs Weasley slamrade omkring och lagade till frukost lite , medan hon kastade ilskna blickar på sina söner samtidigt som hon slängde ner korvar i stekpannan . <eos>
+Just i går kväll sa vi att vi skulle komma och hämta dig själva om du inte hade svarat på Rons brev . <eos>
+Hon viftade nonchalant med trollspöt mot den smutsiga disken . <eos>
+Han slöt ögonen igen och önskade att färden snart skulle ta slut , och så med ens föll han pladask på näsan ner och kände hur glasögonen sprack . <eos>
+Masker med ondskefullt utseende sneglade lömskt från väggarna , en hög människoknotor låg på disken och rostiga , spetsiga instrument hängde från krokar . <eos>
+Draco vände sig om och fick syn på skåpet rakt . <eos>
+Harry torkade sig i pannan då Draco vände sig bort . <eos>
+Harry väntade en minut för den händelse han skulle komma tillbaka och smög sedan så tyst han kunde ut ur skåpet genom butiksdörren . <eos>
+" Som du ser ut ! " sade Hagrid barskt och borstade av sot från Harry med en kraft som nästan fick honom att åka på huvudet ner . <eos>
+Harry förklarade allt för honom . <eos>
+Harry tittade upp och fick se Hermione Granger , som stod överst på den vita trappan . <eos>
+Harry och Hermione såg sig om ; där kom Ron , Fred , George , Percy och mr Weasley springande mot dem . <eos>
+Mrs Weasley dök nu upp inom synhåll . <eos>
+" Kan ni gissa vem jag såg hos Borgin & Burkes ? " sade Harry till Ron och Hermione då de klev uppför trappan . <eos>
+Man kom ner till valven . <eos>
+Harry njöt av den halsbrytande färden ner Weasleys valv men kände sig förfärligt illa till mods , mycket värre än han hade gjort i Svartvändargränden , när det öppnades . <eos>
+De ryckte åt sig var sitt exemplar av Kafferast med klagoandar och smög sig fram genom kön . <eos>
+Gyllenroy Lockman kom långsamt till synes . Han satt vid ett bord omgivet av stora fotografier av hans eget ansikte . Alla bilderna blinkade och log med bländande vita tänder mot folket i bokhandeln . <eos>
+Gyllenroy Lockman kom långsamt till synes bakom människomassan . Han satt vid ett bord omgivet av stora fotografier av hans eget ansikte . Alla bilderna blinkade och log med bländande vita tänder . <eos>
+Den verklige Lockman bar en klädnad i förgät-mig-ej-blått som svarade exakt mot färgen på hans ögon , och en spetsig trollkarlshatt satt käckt på svaj . <eos>
+Liverpool , som borde ha halvsovit sig igenom sextiotalet , frambringade ju Beatles . <eos>
+Jag tror att jag var lycklig , på det där enerverande beslutsamma sättet som barn är lyckliga på , och det var den lyckan som fungerade som en magnet . <eos>
+Det var Hermes som berättade för honom och Hefaistos , smideskonstens halte gud , som tog en hammare och en kil och bände upp skallen på sin härskare Zeus . <eos>
+I hennes kök fanns rader med lökar och feta skinkor som hängde från krokar i taket . <eos>
+När jag kom in i hennes kök genomsökte hon mig från topp till tå , tog ifrån mig desinfektionsmedlet och gav mig en overall att dra på mig . <eos>
+Och så spände han blicken i mig för att försöka se lyckan på samma sätt som han kunde se en chans till en god affär . <eos>
+Stackars unge , skickad ur hand i hand . <eos>
+Hon fick mig att ställa mig i ena hörnet av köket , medan hon rasslade och trasslade fram något ur kolförrådet . <eos>
+Farmor berättade för mig att han hade vänt uppochner på mig och hållit upp mig i ljuset med V-ställda ben för att försäkra sig om att mina könsorgan inte låg döda där inne . <eos>
+Hon hade navigerat genom sina föräldrars fientliga farvatten , lärande sig att hålla den enes bekännelser ifrån den andre . <eos>
+Farmor tog fram ett par böcklingar och värmde dem hastigt åt oss . <eos>
+Vi tre satt och lade pussel medan den otillräckliga brasan försökte smälta istapparna som hängde som långa spjut runt om . <eos>
+Han hade börjat som springpojke för att fjorton år senare bli chef för bolaget . <eos>
+Och hon lärde mig , och vi berättade inte för vare sig mor eller far . <eos>
+Far hade varit på invigningsfesten och där träffat några män som han tyckte om och som hade tyckt om honom . <eos>
+Idén , hans idé , var att ge sig ut på en tredagarskryssning . <eos>
+Alla i hans familj hade gått till jobbet , det var deras stolthet , men ingen hade någonsin kommit hem ren . <eos>
+Vid vissa speciella sammanträffanden av tid och tidlöshet dyker det åter upp som ett klart skinande ljus , som skjuter fram genom det omätliga universum . <eos>
+Han hade bott där eftersom det verkade så engelskt , och när han tog med mig första gången när jag var barn var det Algonquin Hotel vi tog in på . <eos>
+Min farmor älskade mig därför att hon kände igen samma envishet som hon hade gett i arv . <eos>
+Senare , långt senare , när jag hörde Wagners Ringen tänkte jag på de stunder då jag som mycket litet barn hade fått följa med min far för att titta på solnedgången . <eos>
+En av vargarna slickade honom i ansiktet . <eos>
+Far hade berättat för mig och hur grekiska fiskare i sina små båtar fortfarande fruktade den . <eos>
+Min far hade fått ögonen på henne och svurit på att gifta sig med henne . <eos>
+Hon tog mig med sig hem , tände inga lampor , tog av sig kläderna och fick mig att ligga bredvid henne . <eos>
+Jag njöt av att titta på henne , detta jag vid jag , jag som den som åtrår och den som blir åtrådd , rymde en öppenhet som jag förr inte hade erbjudits att utforska . <eos>
+Uppassare och uppassade blåste i trasor . <eos>
+Det blev ingenting kvar i lokalen , hon och jag hypnotiserade av varandra , oförmögna att tala på grund av vinden . <eos>
+Scenen var hennes och om hon uppträdde för någon så var det . <eos>
+Jag rörde mig i en svart springares räta vinklar , men utöver några uppskattande affärsmän fanns det ingen där som verkade intresserad av mig . <eos>
+Den blir gemensam för alla inkomsttagare . <eos>
+Dessa inkomster är * inkomst av tjänst - lön , pension , livränta , undantagsförmåner och övrig tjänsteinkomst . ( Undantag : periodiskt understöd eller därmed jämförlig periodisk inkomst . ) * inkomst av jordbruksfastighet - om den skattskyldige arbetat i jordbruket . * inkomst av rörelse - om den skattskyldige arbetat i rörelsen i ej blott ringa omfattning . <eos>
+Dessa inkomster är * inkomst av tjänst - lön , pension , livränta , undantagsförmåner och övrig tjänsteinkomst . ( Undantag : periodiskt understöd eller därmed jämförlig periodisk inkomst . ) * inkomst av jordbruksfastighet - om den skattskyldige arbetat i jordbruket i ej blott ringa omfattning . * inkomst av rörelse - om den skattskyldige arbetat i rörelsen . <eos>
+Grundavdraget uppgår till samma belopp och beräknas med ledning av den till statlig inkomstskatt taxerade inkomsten . <eos>
+Gränsen för den årsinkomst feriearbetande ungdom m.fl får ha av tillfällig anställning utan att betala preliminärskatt höjs genom de nya bestämmelserna . <eos>
+Gifta pensionärer blir skattefria om sidoinkomsten uppgår till högst 2000 kr . <eos>
+Den koncentrerade militära utbildning som du får sker av praktiska skäl . <eos>
+Du skall nämligen inte bara skaffa dig vissa kunskaper , du skall också lära dig leva ihop med dina kamrater och så småningom sammangjutas med dem . <eos>
+Därför berättar vi lite närmare om dem . <eos>
+Ett annat exempel : om du får remiss från en provinsialläkare behöver du inte betala något ytterligare för det första besöket hos specialisten . <eos>
+Om du har kostnader för resor till och från doktorn eller sjukhuset får du ersättning från försäkringskassan . <eos>
+Du kan lämna uppgifter om dina resor till och från doktorn . <eos>
+Folkpensionärer som är sjukpenningförsäkrade ( genom inkomst av arbete ) har i fortsättningen rätt . <eos>
+De har samma skydd för sin person och egendom , samma möjligheter till utbildning , hälso- och sjukvård . <eos>
+Nordbor kan även förvärva svenskt medborgarskap genom anmälan hos länsstyrelse . <eos>
+Därför finns det för varje ort ett särskilt postnummer , ' samlingsnummer ' , som man kan använda i sådana fall . <eos>
+Genom utkörning och expressutdelning kan avsändaren mot en tilläggsavgift få ett paket utkört till adressatens bostad kontor etc . <eos>
+Paketadresskortet , som aviserar att paketet finns att hämta på adressatens postanstalt , delas ut till adressaten . <eos>
+Både paket och adresskort körs ut till adressatens bostad kontor etc . <eos>
+Ett ilpaket transporteras till adressorten . <eos>
+Adresskortet delas ut till adressaten . <eos>
+I sådana fall försöker postanstalten på adressorten komma i kontakt med adressaten för att meddela att ett ilpaket finns att hämta . <eos>
+Ilbefordran + expressutdelning - när Ni önskar att sändningen dels når adressorten så snabbt som möjligt , dels delas ut till adressaten snarast möjligt . <eos>
+Urinprov kan lämnas utan läkarremiss . <eos>
+Detta hormon förekommer hos friska kvinnor . <eos>
+För att RFSU-laboratoriets undersökning skall bli tillförlitlig fordras att Ni ... 1. tidigast 10 dagar efter den uteblivna menstruationens beräknade första dag eller tidigast fyra veckor efter eventuellt befruktningstillfälle tar ... 2. ett prov av Er morgonurin , ca 1/2 dl ( = 50 gr ) , i en väl rengjord flaska ( glas eller plast ) , som etiketteras med Ert namn och som ... 3. inlämnas eller postas till RFSU-laboratoriet . <eos>
+Om provet inlämnas till RFSU-klinikerna kan Ni få svar redan samma dag . <eos>
+Resultat av urinundersökningen kan Ni få måndagar - fredagar per tel. 08/680940 mellan kl. 15.30 - 16.30 juni juli augusti kl. 15.00 - 15.45 resp. tel. 031/119840 mellan kl. 14.30 - 15.00 resp. tel. 031/119840 mellan kl. 14.30 - 15.00 . 1. samma dag som provet inlämnats till någon av RFSU-klinikerna före kl 10.30 2. samma dag som laboratoriet i Stockholm resp. Göteborg fått provet per post eller från annat inlämningsställe . <eos>
+Resultat av urinundersökningen kan Ni få måndagar - fredagar per tel. 08/680940 mellan kl. 15.30 - 16.30 ( juni , juli , augusti kl. 15.00 - 15.45 ) resp. tel. 031/119840 mellan kl. 14.30 - 15.00 . 1. samma dag som provet inlämnats till någon av RFSU-klinikerna 2. samma dag som laboratoriet i Stockholm resp. Göteborg fått provet per post eller från annat inlämningsställe . <eos>
+Ni kan personligen eller genom ombud hämta RFSU-laboratoriets svar i Stockholm Rosenlundsgatan 13 3 tr. eller Kungsgatan 37 3 tr. mellan kl. 16.00 - 18.00 resp. i Göteborg Sociala huset ingång J mellan kl. 14.30 - 18.00 , resp. i Göteborg , Sociala huset , ingång J , mellan kl. 14.30 - 18.00 . <eos>
+Ni kan också få det översänt per post . <eos>
+Läs mer om detta ! <eos>
+Din insats i skattelotteriet är samtidigt ett sparande som återgår till dig . <eos>
+För att delta i vinstdragningarna måste du ha minst 100 kronor innestående på ditt konto . <eos>
+Eleverna får läsa engelska redan från årskurs 3 ( tidigare ) . <eos>
+I slöjd blir undervisningen densamma för pojkar och flickor . <eos>
+Den praktiska yrkesorienteringen förberedes genom särskilda studiebesök . <eos>
+Två veckotimmar skall ägnas åt detta . <eos>
+Högst två veckotimmar får användas för detta ämne . <eos>
+Läroplanen anger hur många timmar som ungefärligen skall användas för varje ämne . <eos>
+Studiearbetet förläggs enligt den nya läroplanen . <eos>
+Hemuppgifter blir i stor utsträckning frivilliga . <eos>
+I sistnämnda fall går eleven i vanlig klass men får vissa timmar hjälp av speciallärare , t . <eos>
+Specialläraren kan också komma till klassrummet och arbeta tillsammans med läraren . <eos>
+Detta innebär bl.a. * att ordna daghem , lekskolor , barnkolonier och fritidsverksamhet för barn och ungdom , * att lämna råd och upplysningar om uppfostran till de föräldrar som begär det , * att ordna vård åt fosterbarn , ge råd och hjälp i adoptionsfrågor , * att betala ut barnbidrag och bidragsförskott , * att gripa in och hjälpa om barn och ungdom råkar i nöd , utsätts för vanvård eller kommer , * att i vissa fall besluta om övervakning eller att flytta den unge från hemmet , t.ex. till en ungdomsvårdsskola . <eos>
+Centralens sköterska gör besök i hemmen . <eos>
+Förslag har lagts fram om att barnbidraget ska höjas till 1200 kr / år . <eos>
+Lekskolor som tar emot barn något eller några år före skolåldern , vanligen . <eos>
+Sjuka barn vars föräldrar förvärvsarbetar kan få tillsyn i hemmet . <eos>
+Det ökar med 20 kr i månaden . <eos>
+Hyrans storlek får hyresvärd och hyresgäst komma överens om på egen hand , . <eos>
+Där kan hyrorna i stort sett inte ändras såvida inte kostnaderna ökar för fastighetsförvaltning , . <eos>
+En femprocentig hyreshöjning märks mer i plånboken . <eos>
+Som ett litet exempel på hur KPI används har vi räknat ut prisstegringen från januari 1969 . <eos>
+De ska till exempel kunna användas i automaterna . <eos>
+Mer än en halv miljon fritidsbåtar är i rörelse . <eos>
+Det syndas utan tvekan ofta mot den regeln . <eos>
+Man kan vänja sig vid flytväst . <eos>
+I uppställningen på sid. 27 kan du se vilka märken som finns på marknaden och deras cirkapriser som uppgivits för Spk . <eos>
+En del bilmodeller kommer att visa sig bättre än andra . <eos>
+1950 gjordes persontransporter till 33 procent . <eos>
+Var fjärde som dödas i arbetet har i verkligheten gjort det i trafiken - . <eos>
+Bilolyckorna kostar oss varje år enligt vissa beräkningar mellan fem och tio miljarder kronor . <eos>
+Mittlinje kan också användas för uppdelning i två eller flera körfält . <eos>
+Övergår sådan linje exempelvis före korsning får du inte byta körfält eller köra så att din bil överskrider den markeringen . <eos>
+Sov en stund eller rör på dig . <eos>
+Demokrati i form av allmän rösträtt har funnits inskriven i grundlagen . <eos>
+Parlamentarismen kommer till uttryck bl : <eos>
+Tillväxtens storlek och sammansättning kan ändra sig mycket från år . <eos>
+Antalet förvärvsarbetande väntas växa med 225000 , om befolkningen ökar så som antagits . <eos>
+Antalet sysselsatta i Stockholms innerstad , den stora blå stapeln mitt i kartan , skall enligt förslaget hållas oförändrat vid omkring 290000 . <eos>
+Naturligt uran består till 0,7 % . <eos>
+Man måste därför som bränsle i en lättvattenreaktor använda s anrikat uran , dvs sådant uran , där man ökat halten av U235 från 0,7 . <eos>
+Efter passagen genom turbinerna kyls ångan ned av havsvatten och återgår i form av vatten . <eos>
+Det interna huvudkylsystemet är slutet och kommer ej i beröring . <eos>
+Ansökan inlämnas till miljöskyddsnämnden i år . <eos>
+Ansökan lämnas till Österbygdens vattendomstol i år . <eos>
+Arbetsförmedlingen ger dig information om lediga platser bl.a. i veckotidningen Arbetsmarknaden och i lokala platslistor . Den tillhandahåller också en omfattande information om läget på arbetsmarknaden inom olika branscher och i olika delar av landet . erbjuder dig yrkesvägledning vid valet av yrke och utbildningsväg och hjälper dig att kartlägga dina förutsättningar för olika arbetsuppgifter . hjälper dig genom särskilda åtgärder - arbetsvård - att minska eller undanröja de hinder som ett handikapp kan utgöra för dig och försöker finna ett lämpligt arbete i öppna marknaden eller erbjuda andra arbetsmöjligheter . <eos>
+Det är den vanligaste kursformen med en kurstid som varierar från ett par månader . <eos>
+Repetionskurser anordnas i vissa yrken . <eos>
+I vissa fall kan den avtalsenliga lönen till handikappade ersättas med utbildningsbidrag . <eos>
+Även detta bidrag nedsätts till hälften . <eos>
+Arbetsuppgifterna kan variera från sorteringsarbete . <eos>
+Arbetsförmedlingen kan också hjälpa dig med arbetsmarknadsutbildning och med flyttningsbidrag . <eos>
+Var får man tag i dem ? <eos>
+I år betalar vi i genomsnitt 62 öre per kommunalt beskattningsbar hundralapp . <eos>
+Den skriftliga ansökan om utträde måste vara hos pastorsämbetet . <eos>
+Hissa upp bilen , spola med kraftig stråle . <eos>
+För kort tid sedan anställdes han som chef för de borrningar som Oljeprospektering AB - ägt av staten och näringslivet gemensamt - startar på den skånska slätten . <eos>
+När det första borrtornet rests - någonstans i triangeln Malmö - Falsterbo - Ystad - börjar miljonrullningen på allvar . <eos>
+Det har borrats efter olja tidigare men inte djupare än 2000 m . <eos>
+Man får räkna med i medeltal 50 dagars arbete . <eos>
+De har tidigare ställt sig för dyra i inköp . <eos>
+Han visste att skyddskåpor fanns i förråd . <eos>
+Docent Klockhoff hoppas på detta förfarande . <eos>
+Den enorma framgången i försöken att få amerikanska folket att sluta röka beror enligt dr Horn . <eos>
+Man började för fem år sedan när antirökningskampanjen drogs i gång . <eos>
+- Den 1 januari nästa år är det förbjudet att göra reklam för cigarretter . <eos>
+Kirurgiprofessorn Jack Adams-Ray halkade för drygt ett år sedan , skadade senan i knäskålen , fördes i ambulans till ett sjukhus , där vårdpersonalen bara kunde ryska . <eos>
+Kirurgiprofessorn Jack Adams-Ray halkade för drygt ett år sedan i en trappa i Moskva , skadade senan i knäskålen , fördes i ambulans . <eos>
+Han försökte med teckenspråk , försökte rita , men han hade C i teckning . <eos>
+' Medicinsk bildtolk ' gör det i en kort bildsvit . <eos>
+Stjärnor , som ofta används på samma sätt , anger smärta . <eos>
+Goda resultat har vunnits med t.ex. helt finsktalande patienter . <eos>
+Dessa sedlar förs åt sidan . <eos>
+När klockslaget klingar på kvällen och valet är slut förs valboxarna , som var och en kan svälja 1500 sedlar ( dvs fler än väljarna i största valdistriktet ) i ilfart . <eos>
+Sedan valboxarna kommit fram till datacentralen bör det ta högst ett par timmar till att slutresultatet är framräknat . <eos>
+Och i väntan på vad över 700000 poströster ska betyda för regeringsinnehav och riksdagssammansättning är det naturligt att undra varför betänkandet från 1965 års valtekniska utredning , framlagt i fjol höst ( SOU 1969:19 ) och innehållande just den datavalteknik som här redovisats , inte blev omsatt i praktiken . <eos>
+Förberedelsearbetet var i full gång till alla delar , avtalet med det företag som skulle tillverka hela datamaskineriet förelåg på bordet . <eos>
+Gunnar Helen gjorde ett något bättre val med folkpartiet , men framgången var blygsam . <eos>
+Dagens bilbestånd - 2 miljoner - kommer att fördubblas under de kommande tio åren , och det blir vanligare med elektronik . <eos>
+Enligt långtidsutredningen sjunker industrins andel av de förvärvsarbetande till 31 procent 1980 nu . <eos>
+Och han tror att man framförallt inom processindustrin kan ändra på tiderna men däremot få höga vinster . <eos>
+I forskningen har man gått efter genomsnittsstudier , . <eos>
+Årsmedeltalet har stigit från 110000 vid de fyra mätningarna 1962 . <eos>
+Kvinnornas frånvaro har enligt Handelsbanken minskat under 60-talet , . <eos>
+På grund av långvarigt anställningsstopp är medelåldern hög vid järnvägarna - mellan 1960 och 1968 ökade 50-60-åringarna från 10 , och det betyder ökad sjuklighet . <eos>
+Det anses nu fullt möjligt att få ner bisulfitprocenten till 0 - . <eos>
+Att hålla kvar och helst öka mängden potatis i folkkosten är så viktigt att det är orätt att motverka det på grund av de försvinnande små mängder vi kan få i oss . <eos>
+Kylningsresurserna räcker ofta inte till , varken hos skalaren . <eos>
+Ända tills någon slagit på stora trumman och ' skärrat upp ' en opinion . <eos>
+När England slopade hyresregleringen steg hyrorna med flera hundra procent . <eos>
+En del försök att beräkna väntade hyreshöjningar ingår i det material som följer med ett förslag i dag från Statens hyresråd att slopa hyresregleringen i Sverige . <eos>
+Hyrorna höjdes i genomsnitt . <eos>
+Det totala hyresbeloppet i Köpenhamn steg från 600 miljoner kr . <eos>
+Hälften av hyreshöjningen skulle lånas ut på 15 år . <eos>
+Hyrorna ökade med flera hundra procent . <eos>
+Försöken har grundats på en ny lag om skälig hyra på bruksvärdet dvs hyrorna skall vara lika i hus som kan jämföras ifråga om standard , läge och miljö . <eos>
+De hyresgäster som är företagsamma nog att klaga över hyran har belönats med skiftande och ofta för hyresgästerna ogynnsamma tolkningar av lagen . <eos>
+Det inlägget från studierektor Gudrun Werkström i Asarum fick de starkaste applåderna vid skolkuratorernas studiedagar som inleddes i Stockholm . <eos>
+Man avskaffade de praktiska linjerna utan tanke på alla de elever som sökte sig till dessa linjer , konstaterade Tomas Hedqvist . <eos>
+Det har prövats med gott resultat . <eos>
+I dagarna har institutionen tilldelats pengar för att kunna gå så långt tillbaka i tiden som 30 år , säger mannen som lett pornografiexperimentet , Berl Kutschinsky . <eos>
+Deras uppgift är att föra s utredande samtal med EEC-kommissionen . <eos>
+Samtidigt finns det två motstridiga viljor inom EEC : <eos>
+Sveriges önskan att medverka i ekonomiskt samarbete tillfredsställes bäst i en tullunion , anser EEC-byråkratin . <eos>
+Inte heller behöver finansminister Gunnar Sträng börja räkna med att samordna sin ekonomiska politik direkt i Bryssel . <eos>
+- Nu kommer det inte på frågan att överlämna skelettdelarna till kyrkan , fastslår antikvarie Claes Varenius . <eos>
+Som det nu är ser det inte vidare trevligt ut med toalettpapper och avföringshögar . <eos>
+För ser man till undervisningsmetoderna så bygger det nya i dem i hög grad . <eos>
+Visserligen har andra länder börjat med nya matten tidigare ( Danmark och England på nära håll ) , men det har då gällt reformer inom enstaka skolor eller distrikt . <eos>
+Av låg- och mellanstadielärarna utbildades nämligen bara en tredjedel i fjol för det nya systemet . <eos>
+Hos oss används de laborativa materialen ännu så länge bara i begränsad omfattning . <eos>
+Lekrådet lanserar nu en helt ny form av information , som vänder sig till konsumenten . <eos>
+I broschyren uppmanas läsaren att tänka på några viktiga punkter : <eos>
+Därför anordnades i veckoslutet ett hundsymposium där olika forskare lade fram sina rön om ' det bästa hos människan ' . <eos>
+En hundägare kan komma med de mest fantastiska skildringar . <eos>
+Hundar tycker t.ex. inte särskilt mycket om att gå i trappor . <eos>
+Men den kan också ha klarat sig ifrån det . <eos>
+Doc. Bergman berättade om en egen upplevelse där hans dåvarande hund , en skotte , råkade i slagsmål . <eos>
+Efter sju år kom de med båt . <eos>
+Hur var förhållandena i det här avseendet och hur är de i er egen familj ? <eos>
+Jordens befolkning uppgick vid mitten av 1967 och ökar årligen med ungefär 2 % . <eos>
+Det industriella genombrottet gav tillsammans med vetenskapliga och tekniska framsteg förutsättningar för en ökad befolkningstäthet , främst . <eos>
+Konstbevattning kommer till användning , men möjligheterna till sådan begränsas av den tillgängliga vattenmängden och av den starka avdunstningen . <eos>
+Man leder vattnet genom ett system av plastslangar . <eos>
+Trots detta överförs en stor del av jordens gröda genom husdjur . <eos>
+Stora högmekaniserade fiskeflottor med utrustning för konservering av fångsterna ombord eller vid baser i andra länder bedriver nu ett intensivt fiske inte bara på de gamla rika fångstplatserna i Nordatlanten och norra delen av Stilla oceanen utan . <eos>
+Särskilt i Japan ingår alger i den dagliga kosten , och flera arter odlas i stor skala . <eos>
+De som frivilligt genomgår denna akt inför myndighet etablerar sig därmed i samhället som äkta makar . <eos>
+Det fungerar dessutom ofta i västerlandet . <eos>
+Om ingen vet vilka personer , som hör samman från den ena dagen , lär alla sociala förmåner och skyldigheter befinna sig i gungning . <eos>
+I den andra etappen drivs mannen ut från hemmet till arbetsplatsen , medan kvinnan stängs inne med barnen . <eos>
+Genom sinnrikt konstruerade stånggånger kunde man överföra kraften från vattenhjulet . <eos>
+Det är denna energimängd som står till människornas förfogande . <eos>
+En person kan få sin status på formell väg , t genom att utnämnas till byrådirektör eller genom att få plats som chaufför . <eos>
+Det är ett sätt för oss att bringa ordning och överskådlighet i de förväntningar vi har på våra medmänniskor . <eos>
+Vilka olika krav ställs på flickan ? <eos>
+Vi kan konstatera att de individuella bedömningarna förskjuts mot varandra för att till slut nästan helt sammanfalla . <eos>
+Sexton personer kombinerades på olika sätt . <eos>
+Men vi finner det helt naturligt att själva placera ljus på gravarna i Sverige . <eos>
+Man måste alltid räkna med - oavsett samhällsform - att vissa av oss kommer att befinna oss i eller försätta oss i sådana tillstånd eller förhållanden att vi inte kan fungera på ett riktigt sätt . ' <eos>
+De sociala och mänskliga problem socialvården i dag brottas med kommer att förvärras och fördjupas om man inte går in för att mindre söka efter fel brister och sviktande funktioner än förekomma uppkomsten av sådana problem . <eos>
+Det finns internationella strävanden , i synnerhet inom EEC , . <eos>
+Kraven har vuxit vidare och medfört att man vill ha garantier för trygghet för en viss minimistandard . <eos>
+Varje medborgare skall ha rätt och möjlighet att leva aktivt med i samhället . <eos>
+De äldsta syskonen bidrog t.o.m. i några år . <eos>
+I Björn Runeborgs pjäs Väckarklockan , som sändes i TV , får sexårige Jonny ta hand om sig själv ensam medan mamma är på sitt jobb . <eos>
+Vi ser med författarnas hjälp : <eos>
+Ingen av familjen lever med sitt hjärta , de vistas där men brukar den inte ... <eos>
+Männen i deras familjer säger att de är belåtna med sitt arbete men får för litet tid över från arbetet , . <eos>
+Efter en dans fram och tillbaka avsätter hanen en skaftad kapsel med sädesceller och lockar med rörelsemönster och doft honan . <eos>
+Hjälp med att komma åt besvärliga småkryp där de är svåråtkomliga hör till god ton . <eos>
+Socialt beteende kan även resultera i samverkan i större grupper , ofta ( fig. 20 ) . <eos>
+I pingvinernas kolonier lever djuren parvis och kommunicerar med varandra . <eos>
+Men tendensen att signalera och ge svar ärvs från generation och är därmed föremål för en evolution på samma sätt som andra ärftliga egenskaper . <eos>
+Många arter av putsarfiskar finns i korallreven , där de putsar andra fiskarter fria från bl.a. parasiter , . <eos>
+Detaljerna i denna klosignalering varierar från art . <eos>
+Men du kan få ett givande grepp på staden och dess miljö . <eos>
+Man kan tala om : staden där katedralen ( kyrkan ) utgjort centrum ; hantverkare och köpmän fick i början sin utkomst . staden där en borg , ett slott utgjort centrum ; i många medeltidsstäder låg staden nedanför borgen , som var belägen i förnäm avskildhet på en höjd . I andra städer t.ex. under barockens tidevarv , utgjorde slottet centrum i staden ; mot det inriktades hela gatunätet . den anlagda staden ; du möter den inte enbart i antikens värld , t.ex. i de grekiska kolonistäderna på Sicilien . Till denna typ kan också räknas den socialistiska staden , t.ex. Miljutin i Sovjetunionen , med dess konsekventa uppdelning i områden för produktion , administration och bostäder och med stora grönområden , som skiljer industrierna från bostadsregionen . I Sverige möter du dessa anlagda städer i t.ex. Borås , Kristianstad , Kalmar , Karlskrona , Kiruna och i en ort som Domnarvet . handelsstaden ; dess ekonomiska liv är baserat på fjärrhandeln , dess centrala byggnader är rådhuset och storföretagarnas palatsliknande bostäder . Amsterdams centrum är i våra dagar ett exempel på denna 1600-talets borgerliga patricierstad . industristaden ; ibland uppstod den med en gammal handels- eller kyrkostad som centrum , ibland är den helt och hållet en skapelse av 1800-talet . universitetsstaden ; i några fall utgör universitetet och studenterna fortfarande stadens ekonomiska grundval , i andra fall har en senare industristad vuxit upp kring den lilla universitetsorten , som t.ex. i Lund och Uppsala . garnisonsstaden ; i vissa fall har de militära förbandens förläggning blivit av avgörande betydelse , t.ex. i Boden . järnvägsstaden ; då Nils Ericsson planlade det svenska stambanenätet på 1850-talet lät han dra järnvägarna genom till stor del obebyggda trakter . <eos>
+Har den utvecklats från en typ av stad ? <eos>
+Då Haussmann och Napoleon III skapade det nutida Paris centrum strävade de att skapa intryck av monumentalitet , . <eos>
+Kritikerna har menat att dessa stadsdelar ger intryck av stel och formell monumentalitet , saknar den naturvuxna medeltida stadens intimitet , har öppna platser , som saknar annan uppgift än att omge en ointressant staty och som är folktomma , livlösa , har husen grupperade i stora likformiga kvartersblock , . <eos>
+Medeltidens trånga städer hade emellertid inget rum för parker . <eos>
+Stora grönområden med golfbanor , tennishallar , lekplatser och simbassänger sträcker sig som oaser och håller isär bebyggelseområdena . <eos>
+I nutiden bryter sig åsikterna i hög grad . <eos>
+1800-talets straffrätt utgick i stor utsträckning . <eos>
+De intagna isoleras socialt och återfaller i stor utsträckning . <eos>
+Hur mycket har olika tillgreppsbrott ökat från 1960 ? <eos>
+Överallt - i förorten med 12-våningshus eller i glesbygden med kilometrar eller mil mellan egnahemmen - lever den lilla familjen , den ensamma mamman eller pappan och de helt ensamstående i sina små separata kuber , som är som vattentäta skott . <eos>
+Pappa , det är en person som kommer hem trött på kvällen - observera motsatsen till vad mamma ' gör ' och som inte ger pengar - till kola , leksaker , ' pappas ' bil , mat och hyra . <eos>
+Barn som saknar förmåga till kontakt med äldre generationer som de endast stött på till högtider och helger . <eos>
+Med detta kombinerade man uppfattningen att denna överenskommelse icke blott var en rent privat angelägenhet utan att den hade relation till den sociala gemenskapen och samhället . <eos>
+Han underströk så starkt skilsmässans oförenlighet med denna princip att hans uppfattning verkade som en chock inte bara . <eos>
+Är det ur kristen synpunkt försvarligt att driva en sexualmoral som leder till moralisk upplösning samtidigt som majoriteten kanske uppfyller de formella kraven ? <eos>
+Ett tag t.ex. noterade jag nogsamt om Malin var lika glad åt att jag kom hem som när min fru kom och om hon sökte tröst i lika hög grad . <eos>
+Anslutning till den terapeutiskt dominerande familjesynen med dess latenta misstro mot det allmänna och gemenskaper utanför hemmet , respektive anslutning till kritiken av önskvärdheten att överbrygga familjens isolering från övriga samhällsinstitutioner och att på flera områden aktivera och dra in familjemedlemmarna i politisk , social och produktiv verksamhet lägger grunden för helt olika moraliska valsituationer och rollideal . <eos>
+Om kvinnorna även i fortsättningen inriktas på familjens primärgruppsliv , om de i samband med att barnen är små för en avsevärd tid helt håller sig borta från sitt yrke och sin karriär och om olikheten mellan hemmets primärgruppsliv och yrkeslivets sekundärgruppsliv ytterligare skärps , så skapas överlag svårigheter för kvinnorna och deras återgång efter den aktiva moderskapsperioden försvåras . <eos>
+Genom att avbryta yrkeskarriären förlorar kvinnan kontakten med arbetsgruppen och andra sekundära grupprelationer och riskerar att hämmas i sin utveckling . <eos>
+Gud vill , att det äktenskapliga ståndet ' av oss hedras , anses och aktas såsom ett gudomligt , saligt stånd , emedan han har stiftat detsamma före alla andra stånd och fördenskull - såsom uppenbart är - skapat man och kvinna på olika vis , ... <eos>
+Äktenskapets former och villkor har skiftat i betydande grad , men det har så långt vi ser bakåt i historisk tid varit den traditionella formen för sexuell samlevnad . <eos>
+Två viktiga ting är att säga om svårigheter i äktenskap : dels måste i kristen etik förlåtelsen alltid hållas vid liv , dels måste vi självklart räkna med att situationen i ett äktenskap kan bli outhärdlig - av en mängd olika skäl , som inte här kan uppräknas . <eos>
+Om man förutsätter att fäder skall ta hand om barnen , kommer det också att bli lättare för pojkar att välja vårdyrken såsom barnsköterskor och förskollärare . <eos>
+Också bland barnpsykiater , barnläkare och barnpsykologer har skadeverkningarna av att skilja småbarn från deras mor varit föremål för livlig forskning och debatt , utan att man hittills kommit fram till klara resultat . <eos>
+År 1951 gjorde den engelske läkaren J. Bowlby för WHO:s räkning en sammanställning . <eos>
+Man måste ta hänsyn dels till föräldrarnas motivering för sitt ställningstagande , dels till deras möjligheter att ordna för barnen . <eos>
+En del daghem måste kunna ha öppet på kvällarna . <eos>
+Kåren av barnvårdarinnor , som kan ta hand om sjuka barn och som eventuellt kan vara barnvakt på kvällarna och enstaka nätter , måste utökas . <eos>
+Nackdelarna för barnen med föräldrarnas heltidsarbete kunde emellertid minskas om det byggdes flera servicehus eller man på annat sätt hjälpte föräldrarna att ha råd att rationalisera hemarbetet så att de verkligen finge tid att ägna sig åt barnen . <eos>
+Även den förälder som väljer att stanna hemma under barnens första år har ett legitimt behov av att då och då få avkoppling från barnen och borde inte behöva släpa med sig barnen . <eos>
+Det vore säkert mentalhygieniskt värdefullt om varje förälder som ägnar sig åt barnavård kunde få hjälp med barnpassning åtminstone några timmar i veckan . <eos>

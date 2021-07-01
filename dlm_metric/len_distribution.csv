@@ -1,0 +1,201 @@
+Language,position,diff,Mean,CI25,CI975
+Galician,en,1,15.81094,10.95,20.92
+Galician,en,2-4,28.070869,21.88,34.36
+Galician,en,5-6,17.350806,12.0,22.8
+Galician,en,larger than 7,38.768135,32.0,45.6
+Portuguese,zh,1,23.35003,13.11,34.55
+Portuguese,zh,2-4,45.01155,32.73,57.63
+Portuguese,zh,5-6,8.287907,1.69,15.87
+Portuguese,zh,larger than 7,23.349789,13.11,34.38
+Slovenian,en,1,31.697538,24.29,39.35
+Slovenian,en,2-4,37.26225,29.58,45.32
+Slovenian,en,5-6,13.771238,8.33,19.5
+Slovenian,en,larger than 7,17.268982,11.26,23.61
+Spanish,en,1,23.950823,22.25,25.71
+Spanish,en,2-4,36.375404,34.41,38.28
+Spanish,en,5-6,11.190394,9.89,12.53
+Spanish,en,larger than 7,28.483434,26.68,30.32
+Ukrainian,en,1,49.682209,42.24,57.23
+Ukrainian,en,2-4,30.080716,23.21,37.09
+Ukrainian,en,5-6,6.711768,3.11,10.78
+Ukrainian,en,larger than 7,13.525521,8.54,18.99
+Japanese,ja,1,32.341853,24.82,40.0
+Japanese,ja,2-4,41.686305,33.57,50.0
+Japanese,ja,5-6,7.219292,3.45,11.76
+Japanese,ja,larger than 7,18.753252,12.5,25.55
+Swedish,en,1,36.536964,31.73,41.53
+Swedish,en,2-4,41.679695,36.63,46.69
+Swedish,en,5-6,5.980564,3.67,8.51
+Swedish,en,larger than 7,15.802759,12.09,19.67
+Hebrew,en,1,23.031954,20.17,25.95
+Hebrew,en,2-4,35.09715,31.91,38.37
+Hebrew,en,5-6,12.724357,10.5,15.06
+Hebrew,en,larger than 7,29.146486,26.15,32.2
+German,en,1,37.837549,36.5,39.18
+German,en,2-4,37.016237,35.67,38.36
+German,en,5-6,10.071778,9.24,10.9
+German,en,larger than 7,15.074408,14.08,16.05
+English,en,1,31.718784,28.87,34.69
+English,en,2-4,40.030393,37.01,43.11
+English,en,5-6,11.955668,9.96,13.99
+English,en,larger than 7,16.295112,14.03,18.57
+Slovak,en,1,54.374344,42.31,66.18
+Slovak,en,2-4,33.905783,22.95,45.45
+Slovak,en,5-6,2.906266,0.0,7.58
+Slovak,en,larger than 7,8.814037,2.82,16.0
+Bulgarian,zh,1,38.278311,25.93,50.85
+Bulgarian,zh,2-4,51.672918,38.98,64.52
+Bulgarian,zh,5-6,5.061506,0.0,11.29
+Bulgarian,zh,larger than 7,4.987058,0.0,11.11
+Latvian,en,1,56.714442,40.54,72.41
+Latvian,en,2-4,24.316553,11.36,39.02
+Latvian,en,5-6,2.734331,0.0,9.09
+Latvian,en,larger than 7,16.234174,5.41,28.95
+Portuguese,en,1,23.000691,19.13,27.12
+Portuguese,en,2-4,36.818365,32.34,41.4
+Portuguese,en,5-6,12.446074,9.35,15.62
+Portuguese,en,larger than 7,27.734916,23.54,31.98
+Slovenian,zh,1,46.428741,39.02,54.02
+Slovenian,zh,2-4,35.904744,28.65,43.23
+Slovenian,zh,5-6,5.858552,2.48,9.66
+Slovenian,zh,larger than 7,11.807731,7.19,16.97
+Spanish,zh,1,26.082314,19.21,33.11
+Spanish,zh,2-4,47.874795,39.75,56.0
+Spanish,zh,5-6,13.026849,7.8,18.75
+Spanish,zh,larger than 7,13.016177,7.89,18.75
+Hindi,ja,1,41.806248,38.6,45.02
+Hindi,ja,2-4,41.392718,38.18,44.62
+Hindi,ja,5-6,7.47971,5.84,9.24
+Hindi,ja,larger than 7,9.32107,7.49,11.28
+Irish,en,1,43.122827,30.99,55.07
+Irish,en,2-4,23.098929,13.24,33.87
+Irish,en,5-6,12.321931,4.69,20.63
+Irish,en,larger than 7,21.456651,12.07,31.94
+Danish,en,1,33.980401,26.62,41.61
+Danish,en,2-4,34.660108,27.22,42.24
+Danish,en,5-6,6.643851,2.86,11.03
+Danish,en,larger than 7,24.715323,17.93,31.79
+Ukrainian,zh,1,47.290142,37.35,57.3
+Ukrainian,zh,2-4,31.783181,22.47,41.57
+Ukrainian,zh,5-6,11.045148,5.15,17.89
+Ukrainian,zh,larger than 7,9.881249,4.26,16.48
+Afrikaans,zh,1,36.564874,25.71,47.95
+Afrikaans,zh,2-4,40.476988,29.33,51.43
+Afrikaans,zh,5-6,10.812961,4.11,18.31
+Afrikaans,zh,larger than 7,12.145803,5.41,20.0
+English,zh,1,31.262813,18.75,44.68
+English,zh,2-4,41.655499,27.91,55.56
+English,zh,5-6,8.346011,2.0,17.02
+English,zh,larger than 7,18.735307,8.33,30.43
+Bulgarian,en,1,35.814379,27.56,44.0
+Bulgarian,en,2-4,42.520204,34.11,50.77
+Bulgarian,en,5-6,11.204196,6.11,16.91
+Bulgarian,en,larger than 7,10.461424,5.47,15.91
+Serbian,en,1,21.224103,15.0,27.74
+Serbian,en,2-4,51.222689,43.4,58.86
+Serbian,en,5-6,9.376658,5.1,14.2
+Serbian,en,larger than 7,18.176314,12.35,24.38
+German,zh,1,39.595195,38.71,40.49
+German,zh,2-4,41.248848,40.36,42.15
+German,zh,5-6,8.207802,7.72,8.69
+German,zh,larger than 7,10.948083,10.4,11.5
+Chinese,zh,1,40.796315,30.77,51.02
+Chinese,zh,2-4,44.154749,34.04,54.44
+Chinese,zh,5-6,8.600138,3.26,14.89
+Chinese,zh,larger than 7,6.448631,2.11,11.83
+Polish,zh,1,54.354671,47.62,61.29
+Polish,zh,2-4,34.981097,28.5,41.63
+Polish,zh,5-6,5.332176,2.44,8.53
+Polish,zh,larger than 7,5.332034,2.44,8.59
+Italian,zh,1,23.733704,18.91,28.72
+Italian,zh,2-4,41.021621,35.16,46.81
+Italian,zh,5-6,11.497622,7.89,15.33
+Italian,zh,larger than 7,23.746887,18.84,28.94
+Czech,en,1,37.366545,35.42,39.38
+Czech,en,2-4,37.751486,35.76,39.7
+Czech,en,5-6,9.091506,7.94,10.28
+Czech,en,larger than 7,15.790461,14.3,17.31
+Urdu,ja,1,39.141377,32.88,45.66
+Urdu,ja,2-4,35.431988,29.36,41.82
+Urdu,ja,5-6,8.179605,4.76,11.9
+Urdu,ja,larger than 7,17.246832,12.39,22.47
+Romanian,en,1,27.416341,23.52,31.5
+Romanian,en,2-4,41.94911,37.61,46.5
+Romanian,en,5-6,10.842571,8.12,13.7
+Romanian,en,larger than 7,19.79196,16.16,23.4
+Croatian,en,1,28.90486,23.36,34.54
+Croatian,en,2-4,41.785076,35.68,47.84
+Croatian,en,5-6,6.826041,3.8,10.08
+Croatian,en,larger than 7,22.484121,17.32,27.87
+Russian,zh,1,48.159831,45.32,51.03
+Russian,zh,2-4,37.209017,34.38,39.93
+Russian,zh,5-6,6.635642,5.25,8.09
+Russian,zh,larger than 7,7.995441,6.49,9.6
+Catalan,en,1,24.065518,20.77,27.46
+Catalan,en,2-4,35.335614,31.71,39.07
+Catalan,en,5-6,11.283722,8.9,13.81
+Catalan,en,larger than 7,29.315072,25.76,32.91
+Dutch,zh,1,40.704399,36.27,45.24
+Dutch,zh,2-4,40.661668,36.24,45.04
+Dutch,zh,5-6,9.644873,7.05,12.42
+Dutch,zh,larger than 7,8.988952,6.43,11.69
+French,zh,1,19.996384,13.22,27.13
+French,zh,2-4,38.361495,30.08,47.01
+French,zh,5-6,13.638475,7.94,19.85
+French,zh,larger than 7,28.003642,20.35,36.0
+Arabic,en,1,17.473123,14.14,21.1
+Arabic,en,2-4,35.186592,30.99,39.43
+Arabic,en,5-6,12.206703,9.43,15.14
+Arabic,en,larger than 7,35.133767,31.0,39.38
+Polish,en,1,49.567004,45.66,53.43
+Polish,en,2-4,37.451097,33.68,41.24
+Polish,en,5-6,6.402642,4.51,8.39
+Polish,en,larger than 7,6.579252,4.74,8.63
+Italian,en,1,23.071273,21.2,24.96
+Italian,en,2-4,35.319544,33.21,37.42
+Italian,en,5-6,12.916029,11.4,14.42
+Italian,en,larger than 7,28.693205,26.69,30.72
+Czech,zh,1,47.304006,44.48,50.17
+Czech,zh,2-4,38.195126,35.47,40.97
+Czech,zh,5-6,6.791036,5.41,8.27
+Czech,zh,larger than 7,7.70982,6.21,9.28
+Russian,en,1,36.731102,34.48,39.08
+Russian,en,2-4,39.176255,36.88,41.52
+Russian,en,5-6,8.927955,7.6,10.31
+Russian,en,larger than 7,15.16472,13.47,16.89
+Catalan,zh,1,26.17107,17.76,34.95
+Catalan,zh,2-4,44.679804,35.0,54.37
+Catalan,zh,5-6,6.828712,2.78,12.0
+Catalan,zh,larger than 7,22.319129,14.29,30.56
+Croatian,zh,1,41.808309,32.73,50.91
+Croatian,zh,2-4,34.731426,26.23,43.48
+Croatian,zh,5-6,11.280266,5.83,17.5
+Croatian,zh,larger than 7,12.179465,6.48,18.42
+Norwegian,en,1,35.142578,32.13,38.12
+Norwegian,en,2-4,41.621402,38.5,44.79
+Norwegian,en,5-6,9.084336,7.32,10.91
+Norwegian,en,larger than 7,14.151675,11.99,16.36
+Romanian,zh,1,36.122119,23.21,49.12
+Romanian,zh,2-4,49.89721,35.56,63.64
+Romanian,zh,5-6,7.958886,1.89,16.33
+Romanian,zh,larger than 7,6.020922,0.0,13.46
+French,en,1,16.984367,15.33,18.67
+French,en,2-4,40.659814,38.54,42.83
+French,en,5-6,13.323478,11.87,14.83
+French,en,larger than 7,29.032376,27.03,31.06
+Persian,zh,1,32.638849,29.23,36.15
+Persian,zh,2-4,40.078443,36.53,43.66
+Persian,zh,5-6,10.559262,8.39,12.85
+Persian,zh,larger than 7,16.723358,13.99,19.49
+Indonesian,en,1,31.181198,25.8,36.75
+Indonesian,en,2-4,41.080196,35.44,46.76
+Indonesian,en,5-6,6.653995,3.89,9.69
+Indonesian,en,larger than 7,21.084452,16.55,25.89
+Greek,en,1,23.054346,15.52,31.09
+Greek,en,2-4,45.988977,36.75,55.14
+Greek,en,5-6,8.878473,3.7,14.55
+Greek,en,larger than 7,22.07816,14.78,30.09
+Dutch,en,1,31.155299,26.46,35.79
+Dutch,en,2-4,37.683628,32.89,42.52
+Dutch,en,5-6,8.459144,5.79,11.32
+Dutch,en,larger than 7,22.701902,18.47,27.03
